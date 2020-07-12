@@ -1,2 +1,4 @@
 Hello everyone...
 
+I'm finally able to use Git in terminal!! :)
+
