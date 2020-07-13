@@ -1,8 +1,9 @@
 # Project 1 - Monash Data Analytics Bootcamp
+---
 
 ## Background
 
-The year 2020 will no doubt go down in history. With the coronavirus COVID-19 spreading out all over the world, life, as we know, has come to a grinding halt with lockdowns and social distancing rules. But can something good come out of it? For example, has the world air quality improved after half a year into the pandemic?
+The year 2020 will no doubt go down in history. With the coronavirus COVID-19 spreading out all over the world, life, as we know, has come to a grinding halt with lockdowns and social distancing rules. But can something good come out of it? For example, **has the world air quality improved after half a year into the pandemic?**
 
 Now, we know what you may be thinking. With so many people stuck at home, less traffic, and fewer production activities, the air quality would get better.
 
@@ -10,7 +11,7 @@ But how would you **prove** it?
 
 ## What is this project is about?
 
-To understand the impact of Covid-19 on air quality, we use world air quality data and COVID-19 data from different sources.
+To understand **the impact of Covid-19 on air quality**, we use world air quality data and COVID-19 data from different sources.
 We've zoomed in two countries Australia and India to visualise their air quality change from 2019 to 2020H1.
 
 * We've chosen Australia because it is so close to our hearts. In Australia, we chose Melbourne, Sydney and Perth to visualise how some of the main air pollutants have changed from 2019 to now. Melbourne and Sydney are the two most populous cities in Australia, and Perth is home to one of our team members.
@@ -61,7 +62,7 @@ We've zoomed in two countries Australia and India to visualise their air quality
    
    The above major pollutants are the components of the Air Quality Index (AQI), which is regulated by the Clean Air Act.
    
-There are other parameters that affect air quality.
+   However, there are other parameters that would affect air quality.
 
 2. Understanding about the units of the air pollutants
 The units of the air pollutants are not explicitly stated inside the air quality data. We've interpreted their units as instructed [here](https://www.airnow.gov/sites/default/files/2020-05/aqi-technical-assistance-document-sept2018.pdf). We do not guarantee that's exactly what the units should be.
@@ -76,7 +77,7 @@ The units of the air pollutants are not explicitly stated inside the air quality
 
 1. With more resources, we would investigate further any potential outliers in the data.
 
-2. We could explore and visualise the air quality data for more cities/countries/parameters under a longer/different timeframes.
+2. We could explore and visualise the air quality data and Covid data for more cities/countries/parameters under a longer/different timeframes.
 
 3. We could try out other statistical models to understand more about the correlation between Covid-19 and Air Quality.
 
