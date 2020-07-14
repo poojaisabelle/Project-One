@@ -9,7 +9,7 @@ Now, we know what you may be thinking. With so many people stuck at home, less t
 
 But how would you **prove** it?
 
-## What is this project is about?
+## What is this project about?
 
 To understand **the impact of Covid-19 on air quality**, we use world air quality data and COVID-19 data from different sources.
 We've zoomed in two countries Australia and India to visualise their air quality change from 2019 to 2020H1.
